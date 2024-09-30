@@ -24,5 +24,6 @@ Right now, I'm focusing on developing my backend development skills with Python 
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/اhexday)
-
+- [instagram](https://www.instagram.com/hexxday?utm_source=qr)
+- [telegram](https://t.me/Hexday)
 
