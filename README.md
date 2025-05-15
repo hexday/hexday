@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahuran</h1>
 <h3 align="center">I'm a passionate Backend Developer and AI Enthusiast with over 6 years of experience in computer science, programming, and networking. For the past 3 years, I've been diving deeper into programming, specializing in Python and expanding my knowledge in backend frameworks, web development, and data analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahuran&label=Profile%20views&color=0e75b6&style=flat" alt="ahuran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahuran" alt="ahuran" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahuran" target="blank"><img src="https://img.shields.io/twitter/follow/ahuran?logo=twitter&style=for-the-badge" alt="ahuran" /></a> </p>
 
